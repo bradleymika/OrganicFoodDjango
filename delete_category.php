@@ -7,8 +7,8 @@ include("../connection/connect.php");
 error_reporting(0);
 session_start();
 
-mysqli_query($db,"DELETE FROM users_orders WHERE o_id = '".$_GET['order_del']."'");
-header("location:all_orders.php");  
+mysqli_query($db,"DELETE FROM res_category WHERE c_id = '".$_GET['cat_del']."'");
+header("location:add_category.php");  
 
 ?>
                 <!-- /*!
