@@ -2,5 +2,15 @@
 Group Project - Ordering Healthy Food
 
 
-Healthy Food Ordering System
-Welcome to our Healthy Food Ordering System, a comprehensive web application designed to facilitate the seamless ordering of healthy meals. Developed by a team of five using PHP and Django, our system addresses all essential requirements for both front-end and back-end operations. The front-end interface is crafted to ensure ease of navigation, allowing users to effortlessly browse, select, and order meals. The back-end, powered by a robust database, handles data storage and transactional operations such as adding and editing products and user profiles. Users can query the database to retrieve detailed product and user information and generate various reports. Our system demonstrates the user experience of ordering products and the administrative functions of running reports, viewing sales figures, and managing product details, ensuring a comprehensive solution for both customers and administrators.
+Introduction
+Welcome to EverFresh, a web-based application designed to revolutionize the online food delivery experience for health-conscious consumers. EverFresh connects diners with restaurants specializing in nutritious cuisine, offering a platform for effortless discovery and delivery of healthy meals tailored to diverse dietary preferences such as vegan, gluten-free, and organic options.
+
+Project Overview
+EverFresh addresses the challenges faced by diners with dietary restrictions by providing advanced filtering options, user reviews, and a curated selection of healthy meals. This project enhances the online food delivery experience by offering a user-friendly interface and robust back-end system for managing data and transactions.
+
+Features
+User-Friendly Interface: Designed for easy navigation, allowing users to browse, filter, and order meals with ease.
+Advanced Filtering Options: Users can filter restaurants based on dietary preferences such as vegan, gluten-free, and more.
+Comprehensive Database: A robust back-end database to store restaurant information, menu items, user profiles, and orders.
+User Reviews: Users can read and write reviews to make informed decisions about their meal choices.
+Admin Management: Features for administrators to manage restaurants, menus, and access detailed analytics.
